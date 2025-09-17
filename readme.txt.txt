@@ -6,3 +6,5 @@ Name : Wangduk Soo
 
 
 Lecture : Open Source Software
+
+This week : Git Commands
